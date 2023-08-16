@@ -1,0 +1,291 @@
+EDUCATION
+University of California, Berkeley - B.S. Electrical Engineering & Computer Science • 2022 • 3.23 / 4.0 
+Coursework: Databases systems, Algorithms, OS, Internet Architecture & Protocols (Networking), Artificial Intelligence, Data Structures, Machine Structures, Computer Security, Full Stack Development, Blockchain for developers, Data Science
+SKILLS   Python, Java, JavaScript, Typescript, React, Node.js, SQL, MongoDB, RESTful API, C, Git, AWS, HTML/CSS
+EXPERIENCE
+WhaleAlert - Backend engineer - Node.js, Docker, AWS EC2					   Spring 2023 - Current
+Developed and deployed an alerting service that sends automated notification bots for Twitter, Telegram, and Discord. Delivers real-time alerts for significant blockchain transactions and enables sentiment analysis capabilities.
+Utilized Docker and implemented a CI/CD pipeline with GitHub Actions for seamless deployment of the alert services on AWS EC2 instances.
+Puppy Treats - Software Engineer - Node.js, Next.Js, MongoDB, Firebase, Docker, Vercel, AWS      Fall 2022 - Spring2023
+Developed a full-stack application to connect volunteers and new families, facilitating a dog mobile service in collaboration with multiple voluntary organizations.
+Leveraged Next.js, Node.js, and MongoDB to build the backend infrastructure, ensuring efficient data storage and retrieval while integrating functionalities.
+Utilized Firebase, Google API, and AWS services to enable user-friendly features: authentication and real-time chat, user dashboards, search with Google Maps integration, and seamless deployment on the cloud.
+RTC + NEAR Blockchain - Blockchain engineer - Assemblyscript, React.js 		                              Summer 2021
+Deployed a full-stack tokenized donation application on the NEAR blockchain, leveraging a smart contract to facilitate automated transactions and fund disbursement upon reaching the targeted donation amount.
+Awarded 500 NEAR token grant for the outstanding implementation of the platform
+Cal Mentors (UC Berkeley) - Backend engineer - Python, Google API, Google Apps Script                                Spring 2021
+Automated schedule matching and email notifications for a COVID-induced mentorship program, supporting 200+ K12 local Bay Area students with the assistance of 80+ UC Berkeley mentors under the supervision of Professor Ranade. 
+UC Berkeley EECS Department - Academic Intern - Java 	  		                                              Spring 2020	
+Presented fundamental DataStructures and Algorithm content to support Professors and 1600+ students 
+Hosted office hours and mentored students in weekly labs to experiment with algorithms and data structures by debugging code, detecting logical flaws, and utilizing IntelliJ
+PROJECTS
+Flashloan Liquidation -Solidity, Docker, Python   				                      	                  Spring 2022
+Implemented a smart contract solution utilizing Alchemy to access an archive Ethereum node, empowering users to seamlessly execute liquidation (Aave) and asset exchange with flash loan (Uniswap) within a single transaction.
+Engineered to acquire maximum profit with consideration of fees and exchange rate resulting from LP pool imbalance
+Database System -Java, Docker 					                                                            Spring 2020
+Created a self-balancing B+ tree for dynamic file indexing and improved the runtime of CRUD operations with features such as get, put, remove, scan, and bulk loading
+Implemented the backend inner working of SQL iterators, join algorithms, cost estimation, and query optimization 
+Engineered with Test-Driven Development (TDD) approach, creating an extensive suite of unit and integration tests that thoroughly cover edge cases, ensuring robustness and reliability in the codebase.
+
+
+business plan:
+
+Concrete business plan with goals and steps for over the next 1 year, 
+broken down into monthly, 3-month, 6-month, and 1-year milestones, 
+along with suggested daily and weekly tasks to achieve those goals:
+
+Business Plan Overview:
+
+Name: uluwatu
+
+1. AI Image Fine Training for Fashion Industry and Advertising:
+
+Monthly Goals
+
+	-Month 1-2: Research and gather data for fashion industry image training.
+	-Month 3: Develop AI image training algorithms.
+	-Month 4: Build a user-friendly interface for the AI platform.
+	-Month 5: Test and refine the AI algorithms based on feedback.
+	-Month 6: Launch the AI image training platform for the fashion industry and ad sector.
+
+3-Month Goals
+
+	-Develop a marketing strategy: Define target audience and create marketing materials.
+	-Engage with potential clients: Reach out to fashion companies and advertising agencies to introduce the service.
+	-Gather user feedback: Collect input from early users to improve the platform.
+
+6-Month Goals
+
+	-Expand user base: Increase the number of users and companies utilizing the AI image training platform.
+	-Enhance AI capabilities: Continuously improve the algorithms based on real-world usage.
+	-Implement monetization:  Introduce subscription plans for different user tiers.
+
+1-Year Goals
+
+	-Establish market presence: Become a recognized solution in the fashion and advertising industries.
+	-Diversify services: Consider expanding AI capabilities to other industries or use cases.
+	-Strategic partnerships: Explore collaborations with fashion brands and advertising agencies.
+
+
+
+2. Create Blockchain Transaction Alert Service
+
+
+클레이 전송 감시하기:
+dotenv로 환경변수 관리하기
+winston으로 로깅 하기
+(kalyan 트랜잭션 가져오기
+10만 클레이 이상의 트랜잭션을 필터링 하기
+클레이튼의 알려진 주소들 가져오기
+알려진 주소들 매핑하기
+
+(other chains)
+1억원 이상의 토큰(erc20) transfer를 감시한다
+리저브 주소의 모든 transfer를 감시한다
+
+트위터 봇 만들기
+텔레그램 봇 만들기
+discord bot 
+
+dockerize 
+ci/cd with github action
+deploy to aws ec2 
+
+
+New task
+
+whale alert과 같은 웹페이지를 만든다. nextjs+tailwind
+이벤트 발생 할 때 트랜잭션 db에 저장
+transaction id를 하위 주소로 하는 페이지 생성
+거래소 레퍼럴 링크 붙이기
+google adsense 또는 다른 광고 붙이기
+
+
+
+
+
+
+
+
+Monthly Goals
+
+	-Month 1: Research blockchain technologies and transaction monitoring tools.
+	-Month 2: Develop the alert service system architecture.
+	-Month 3: Build a basic website for the alert service.
+
+3-Month Goals
+
+	-Refine website: Improve the website's design and user experience.
+	-Develop partnerships: Establish connections with cryptocurrency exchanges (CEX platforms) for collaboration.
+
+6-Month Goals
+
+	-Launch the alert service: Make the service operational and user-friendly.
+	-Marketing and user acquisition: Begin promoting the service to crypto enthusiasts and traders.
+
+1-Year Goals
+
+	-Expand exchange partnerships: Collaborate with more CEX platforms for wider coverage.
+	-Monetization: Introduce premium features for advanced alerts and data analysis.
+
+
+3. Create Crypto Arbitrage Trade Service
+
+Monthly Goals
+
+	-Month 1: Research crypto arbitrage strategies and popular trading pairs.
+	-Month 2: Develop the arbitrage trade algorithms.
+	-Month 3: Design a user interface for the arbitrage service.
+
+3-Month Goals
+
+	-Refine algorithms: Test the arbitrage algorithms with historical data.
+	-Website development:  Build the website for the arbitrage service.
+
+6-Month Goals
+
+	-Launch the service: Make the arbitrage trade service available to users.
+	-Marketing and user acquisition: Promote the service to cryptocurrency traders.
+
+1-Year Goals
+
+	-Enhance algorithms: Continuously improve the arbitrage strategies based on real-time data.
+	-Monetization and expansion: Offer premium features and consider expanding to more cryptocurrency exchanges.
+
+
+
+4. Create a service that displays cryptocurrency price differences across countries and exchanges 
+
+
+Monthly Goals
+
+Month 1: Research and Planning
+
+	-Week 1-2: Conduct thorough market research, analyzing existing cryptocurrency price comparison tools and identifying gaps in the market.
+	-Week 3: Finalize the feature set for the platform, including data sources, user interface, and key functionalities.
+	-Week 4: Develop a detailed project plan and allocate tasks to team members.
+
+Month 2: Platform Development and Data Integration
+
+	-Week 1-2: Begin platform development, focusing on setting up the database and data scraping mechanisms.
+	-Week 3: Develop a preliminary user interface for price comparison, focusing on simplicity and ease of use.
+	-Week 4: Initiate testing of data aggregation algorithms and refine them for accuracy.
+
+Month 3: Beta Testing and User Experience Enhancement
+
+	-Week 1-2:** Launch a closed beta for a limited number of users to test the platform's functionality and user experience.
+	-Week 3:** Gather user feedback and identify areas for improvement.
+	-Week 4:** Make necessary adjustments to the user interface, data accuracy, and overall platform performance based on beta feedback.
+
+3-Month Goals
+
+	-Launch a Closed Beta:** Have a functional version of the platform available for a select group of users to test and provide feedback.
+	-Data Accuracy:** Ensure that data aggregation algorithms provide accurate and up-to-date cryptocurrency prices from various exchanges and countries.
+	-User Engagement:** Gather valuable feedback from beta users to understand their needs and preferences.
+
+6-Month Goals
+
+	-Platform Optimization and Refinement:** Fine-tune the user interface, navigation, and data presentation based on beta feedback.
+	-Expand Data Coverage:** Increase the number of supported cryptocurrencies, exchanges, and countries to enhance the platform's usefulness.
+	-Marketing Preparation:** Begin preparing marketing materials, such as content, social media strategies, and launch campaigns.
+
+1-Year Goals
+
+	-Public Launch:** Officially launch the CryptoPriceCompare platform to the public with a robust feature set and a polished user experience.
+	-User Base Growth:** Aim to have a significant number of active users who rely on the platform for price comparison and arbitrage opportunities.
+	-Monetization Implementation:** Successfully implement premium subscription plans and establish revenue streams.
+
+
+
+Creating an ETF (Exchange-Traded Fund) alike service based on meme coins in the crypto industry (personal project)
+
+
+
+**1. Market Research and Feasibility Analysis:**
+
+- **Research Meme Coins:** Study popular meme coins in the crypto industry, analyzing their historical performance, market sentiment, and community engagement.
+
+- **Competitor Analysis:** Identify existing crypto ETFs or similar services and understand their features, target audience, and market positioning.
+
+**2. Regulatory Compliance:**
+
+- **Legal Consultation:** Work closely with legal experts familiar with crypto regulations to ensure your ETF-like service complies with relevant laws.
+
+- **Regulatory Approval:** Obtain necessary licenses and approvals from regulatory authorities to offer your investment service.
+
+**3. Investment Strategy and Product Development:**
+
+- **Define Investment Strategy:** Develop a clear and comprehensive investment strategy that outlines how your ETF-like service will select and manage meme coins for the fund.
+
+- **Portfolio Management:** Create a diversified portfolio of meme coins that aligns with your investment strategy.
+
+**4. Technology Infrastructure:**
+
+- **Platform Development:** Build a user-friendly online platform where investors can access and monitor the performance of the meme coin ETF.
+
+- **Security Measures:** Implement robust security measures to protect investors' funds and data.
+
+**5. Marketing and Branding:**
+
+- **Branding:** Develop a strong and memorable brand identity for your CryptoMeme Funds.
+
+- **Educational Content:** Create educational content that explains the concept of meme coin ETFs, the benefits, and the risks involved.
+
+**6. Launch and Operations:**
+
+- **Beta Testing:** Conduct a beta launch of the platform with a limited number of users to identify and fix any issues.
+
+- **Launch:** Officially launch the CryptoMeme Funds platform to the public, emphasizing its unique value proposition.
+
+**7. Investor Relations:**
+
+- **Customer Support:** Offer excellent customer support to address inquiries, concerns, and technical issues.
+
+- **Transparency:** Provide regular updates on the performance of the meme coin ETF and any changes to the portfolio.
+
+**8. Business Development:**
+
+- **Partnerships:** Collaborate with exchanges, wallet providers, and other crypto-related services to expand your user base.
+
+- **Marketing Campaigns:** Launch marketing campaigns targeting crypto enthusiasts, meme coin communities, and potential investors.
+
+**9. Continuous Improvement:**
+
+- **Data Analysis:** Continuously analyze the performance of the meme coin ETF and make data-driven decisions to optimize the portfolio.
+
+- **Feedback Collection:** Gather feedback from investors to improve the platform's features and user experience.
+
+**10. Regulatory Compliance and Risk Management:**
+
+- **Ongoing Compliance:** Stay updated on changing regulations and ensure that your operations remain compliant.
+
+- **Risk Management:** Develop strategies to mitigate risks associated with meme coin volatility and market changes.
+
+Remember, the success of your meme coin ETF alike service will depend on factors such as regulatory compliance, investor trust, and the ability to offer a unique and valuable investment opportunity. It's essential to navigate the challenges of the rapidly evolving crypto landscape while prioritizing transparency, security, and a user-centric approach. Additionally, ensure that you have a team with expertise in finance, technology, legal, and compliance to execute your business plan effectively.
+
+
+**Company Description:**
+
+Our company is a cutting-edge technology startup focused on developing a diverse range of software solutions that cater to the rapidly evolving needs of the digital landscape. Through innovative AI-powered platforms, blockchain services, and cryptocurrency solutions, we aim to empower individuals and businesses with advanced tools that drive efficiency, insight, and growth.
+
+**What We Do:**
+
+At our core, we specialize in crafting software solutions that span various industries, leveraging artificial intelligence, blockchain technology, and cryptocurrency expertise. Our portfolio encompasses AI Image Fine Training for the Fashion Industry and Advertising, a Blockchain Transaction Alert Service, and a Crypto Arbitrage Trade Service. These solutions are designed to provide real-world value, whether it's enhancing image recognition, offering real-time insights into blockchain transactions, or enabling users to seize cryptocurrency trading opportunities.
+
+**Mission:**
+
+Our mission is to pioneer technological advancements that redefine industries, empower individuals, and transform businesses. Through our software innovations, we strive to bridge the gap between cutting-edge technologies and practical applications. Our commitment lies in harnessing the potential of AI, blockchain, and cryptocurrency to create tools that streamline operations, foster informed decision-making, and unlock new possibilities.
+
+As we develop and deliver software solutions, our overarching mission is to:
+
+1. **Empower Innovation:** Enable businesses and individuals to innovate with confidence, utilizing AI, blockchain, and cryptocurrency to achieve their goals.
+
+2. **Enhance Efficiency:** Streamline operations, increase productivity, and optimize processes by harnessing the power of advanced technologies.
+
+3. **Facilitate Insight:** Provide actionable insights through data analysis and real-time information, aiding informed decision-making.
+
+4. **Cultivate Growth:** Catalyze growth for businesses by offering tools that capitalize on emerging trends and market opportunities.
+
+5. **Promote Accessibility:** Make complex technologies accessible to a wide range of users, democratizing their benefits across industries.
+
+In essence, our company is dedicated to pushing the boundaries of what technology can achieve. We're driven by a vision of a digitally empowered world, where AI, blockchain, and cryptocurrencies converge to elevate industries and empower individuals.
